@@ -1,4 +1,4 @@
-This is a library for a 16 channel PWM Dimmer
+This is a library for a serial text 16 channel PWM Dimmer with fade and delay
 
 name=Dimmer
 version=NA - see github for release tag
